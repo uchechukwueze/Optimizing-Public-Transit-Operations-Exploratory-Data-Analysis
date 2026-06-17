@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="15" src="https://github.com/user-attachments/assets/fcf7a87e-8c95-4257-b3b2-e8c019597dda" />
 
-# Optimizing-Public-Transit-Operations-Exploratory-Data-Analysis
+# Optimizing Public Transit Operations: An Exploratory Data Analysis
 What if the busiest transport route is not the most efficient one?  That was one of the questions I explored in my latest Python EDA capstone project: Optimizing Public Transit Operations for MetroMove Transit Solutions.
 
 ## Project Overview
